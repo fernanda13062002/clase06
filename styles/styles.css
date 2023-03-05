@@ -1,0 +1,35 @@
+h1 {
+    font-size: 4vw; font-family: sans-serif;
+    background-image: url("../images/fondo_1.jpg");
+    text-align: center;
+    color: rgb(255, 0, 0);
+    padding: 22px;
+    margin: 3vw 10vw
+    
+}
+
+p {
+    color: aliceblue;
+    border-color: rgb(226, 43, 43);
+    background-color: #ff0000;
+    border: solid 5px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 5vw 10vw
+}
+
+body {
+    font-family: verdana;
+    background-image: url("../images/fondo.png");
+}
+
+div {
+    text-align: center; font-size: 42px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(165, 10, 10);
+    border-color: rgb(132, 0, 255);
+    border: solid 3px;
+    padding: 4px;
+    border-radius: 10px;
+    margin: 5vw 10vw
+}
